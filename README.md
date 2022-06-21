@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm an enthusiastic and disciplined person having a passion for web development. I favor quality over quantity, prefer to always assess challenges from different perspectives, and strive to come up with the simplest and sometimes  "out of the box" solution.
+
+I'm a MERN stack developer. I'm more interested in FOSS projects where I can find creative solutions to logical problems. I’m laser-focused on crisp design, solid branding, and vibrant collaboration.
+My endless curiosity means I never stop learning. I'm excited to bring my unique skill set to the field.
+
+Besides coding, I usually spend my time reading personal development books.
+
 <!--
 **bilalscripts/bilalscripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -9,5 +16,5 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=bilalscripts&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/bilalscripts> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+
 </p>
